@@ -1,6 +1,6 @@
 # JARVIS on Messenger
 
-Just A Rather Very Intelligent System, now on Messenger!
+Just A Rather Very Intelligent System, now in your hands on Facebook Messenger!
 
 [![Build Status](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger.svg?branch=master)](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger)
 ![Python](https://img.shields.io/badge/python-2.7-blue.svg)
